@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jonas Dora
+title: Jonas Dora, PhD
 
 # Is this the primary user of the site?
 superuser: true
