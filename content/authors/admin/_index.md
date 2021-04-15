@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoc at the University of Washington. Together with Dr. Kevin King, I study how impulsivity affects people's ability to self-regulate their behavior. https://scholar.google.com/citations?user=erwL3YoAAAAJ&hl=en
+I am currently a postdoc at the University of Washington. Together with Dr. Kevin King, I study how emotions affect people's ability to self-regulate their behavior. https://scholar.google.com/citations?user=erwL3YoAAAAJ&hl=en
 https://osf.io/6959e
