@@ -14,13 +14,13 @@ organizations:
   url: "https://psych.uw.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include impulsivity, self-control, and motivation.
+bio: My research interests include self-control, motivation, decision-making, and emotions.
 
 interests:
 - Self-control
 - Motivation
 - Decision-making
-- Impulsivity
+- Emotions
 
 education:
   courses:
