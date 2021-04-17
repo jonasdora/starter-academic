@@ -70,5 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoc at the University of Washington. Together with Dr. Kevin King, I study how emotions affect people's ability to self-regulate their behavior. https://scholar.google.com/citations?user=erwL3YoAAAAJ&hl=en
-https://osf.io/6959e
+I am currently a postdoc at the University of Washington. Together with Dr. Kevin King, I study how emotions affect people's ability to self-regulate their behavior. Mainly, we study the way emotions shape people's decision to consume (more) alcohol. More generally, I am interested in mechanistic explanations of people's subjective experience of the world and decision-making.
