@@ -16,7 +16,7 @@
 [[main]]
   name = "Posts"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
