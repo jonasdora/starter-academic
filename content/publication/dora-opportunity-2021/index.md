@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The effect of opportunity consts on mental fatigue in labor/leisure tradeoffs"
+title: "The effect of opportunity costs on mental fatigue in labor/leisure tradeoffs"
 authors: 
 - Jonas Dora
 - Madelon van Hooff
