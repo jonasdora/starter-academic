@@ -33,13 +33,21 @@ The idea that people drink alcohol in order to feel better has been around the p
 It is non-controversial that people often report to drink in order to alter their affective state (i.e., in order to enhance the experience of positive emotions and to reduce the experience of negative emotions). However, that does not mean that a causal relationship between affect and alcohol use exists, as people do not always have conscious insight on their own behavior (but psychological research would be much more straightforward if they did!). Recently, I talked to many alcohol use researchers for a project of mine, and I noticed that they all have their own interpretation of the theories I am about to discuss. Indeed, all of these theories are verbal in nature, which means that they do not formalize their predictions in mathematical notation, and thus leave it up to the reader to translate them into testable hypotheses. While I will not go so far to formalize these predictions, following the ideas of Lakatos, I will attempt to identify the core assumption of these theories and derive specific and falsifiable auxiliary hypotheses from them (needless to say, these will come from my interpretation of these verbal models). Here are the papers that I have read to inform this post:
 
 Conger, J. (1956). Reinforcement Theory and the Dynamics of Alcoholism. Quarterly Journal of Studies on Alcohol, 17, 296 – 305.
+
 Cloninger, C. (1987). Neurogenetic adaptive mechanism in alcoholism. Science, 236, 410 – 416.
+
 Cox, W., & Klinger, E. (1988). A motivational model of alcohol use. Journal of Abnormal Psychology, 97, 168 – 180.
+
 Khantzian, E. (1990). Self-regulation and self-medication factors in alcoholism and the addictions. Similarities and differences. Recent developments in alcoholism, 8, 255 – 271.
+
 Cooper, M., Frone, M., Russell, M., & Mudar, P. (1995). Drinking to Regulate Positive and Negative Emotions: A Motivational Model of Alcohol Use. Journal of Personality and Social Psychology, 69, 990 – 1005.
+
 Wills, T., & Filer, M. (1996). Stress – coping model of adolescent substance use. Advances in Clinical Child Psychology, 91 – 132. 
+
 Greeley, J., & Oei, T. (1999). Alcohol and tension reduction. Psychological Theories of Drinking and Alcoholism, 2, 14 – 53.
+
 Baker, T., Piper, M., McCarthy, D., Majeskie, M., & Fiore, M. (2004). Addiction Motivation Reformulated: An Affective Processing Model of Negative Reinforcement. Psychological Review, 111, 33 – 51.
+
 Hussong, A., Jones, D., Stein, G., Baucom, D., & Boeding, S. (2011). An Internalizing Pathway to Alcohol Use and Disorder. Psychology of Addictive Behaviors, 25, 390 – 404.
 
 
@@ -61,4 +69,5 @@ This is an interesting idea I saw infrequently raised, namely that if alcohol us
 There are multiple other very interesting ideas in these rich papers (e.g., regarding the effects on the first drink of the night vs subsequent drinks, differences in predictions between alcoholics and non-alcoholics, the way deprivation and withdrawal might support the reinforcement learning process, …), but I will end it here for now. One thing I was surprised by was the high variability in researcher’s thoughts on the role of positive affect in the reinforcement of alcohol. In summary, I believe that it is possible to derive multiple falsifiable and rigorous auxiliary hypotheses from the core assumption that alcohol use is a behavior that is reinforced through affective change. In my next post, I will discuss the extent to which these hypotheses have been addressed by empirical research and should be addressed in the future. 
 
 References
+
 Lakatos (1978). The methodology of scientific research programmes. Philosophical Papers, 1, 250. 
